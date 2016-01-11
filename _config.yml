@@ -65,3 +65,4 @@ defaults:
       search: true
       tooltip: true
 
+baseurl:  /documentation-theme-jekyll/
